@@ -10,7 +10,7 @@
 1.	Extract Features from Images using mediapipe and cv2 
 2.	Extract Labels from matlab files using scipy.io 
     Labels consists of 3 angles [ pitch , yaw and roll] 
-    (.E:\ITI-AI\facePosingPrediction\facePosingPrediction\pyr.png)
+    ![Screenshot](pyr.png)
 3.	Train Support Vector Regression (SVR) model to predict each angel 
 4.	Test the model on video 
 5.	Return video with Axis 
