@@ -22,5 +22,7 @@ Project is implemented with:
 * mediapipe and cv2 
 * scipy
 * Sklearn-SVR 
-
+ ## NOTE :
+ if you got this pesky error message “This notebook takes too much to render ” , you can check this url : https://nbviewer.org/github/noor-osama/headPoseEstimation-/blob/main/headPoseEstimation_collabVersion.ipynb .
+ It’s just an issue on GitHub’s end because it’s unable to render a preview of the file.
 	
